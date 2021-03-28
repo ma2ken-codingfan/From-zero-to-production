@@ -13,5 +13,7 @@ npx tailwindcss-cli build css/tailwind.css -o build/tailwind.css
 npm install -D tailwindcss postcss autoprefixer vite
 
 npx tailwindcss init -p // add postcss tailwind config.js
+
+npm run dev
 ```
 
